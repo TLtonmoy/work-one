@@ -14,5 +14,12 @@ h3{
     color: brown;
 }
 ol{
-    color: chartreuse;
+    color:crimson;
+}
+form{
+    text-align: center; 
+    margin: 10px; padding: 10px;
+}
+body{
+    background-color: aquamarine;
 }
