@@ -1,0 +1,18 @@
+.tl{
+    color: red; 
+    background-color: blueviolet;
+    border: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+}
+header{
+    background-color: aquamarine;
+    text-align: center;
+}
+h3{
+    color: brown;
+}
+ol{
+    color: chartreuse;
+}
